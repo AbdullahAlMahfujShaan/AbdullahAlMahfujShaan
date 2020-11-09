@@ -75,4 +75,4 @@ An undergrad student currently pursuing B. Sc. degree in Computer Science and En
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmahfujshaan)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmahfujshaan&label=Profile%20views&color=00FF00&style=flat" alt="abdullahalmahfujshaan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmahfujshaan&label=Profile%20views&color=5cbb16&style=flat" alt="abdullahalmahfujshaan" /> </p>
