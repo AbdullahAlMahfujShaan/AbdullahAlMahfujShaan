@@ -57,7 +57,7 @@ An undergrad student currently pursuing B. Sc. degree in Computer Science and En
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalmahfujshaan&show_icons=true&locale=en" alt="abdullahalmahfujshaan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahalmahfujshaan&show_icons=true&locale=en" alt="abdullahalmahfujshaan" /></p>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/abdullahalmahfujshaan)  
