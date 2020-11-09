@@ -4,7 +4,7 @@
 
 ###  Hello Hooman.👋, Shaan here
 #### Currently Working
-![Hello World](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+![Currently Working](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
 
 An undergrad student currently pursuing B. Sc. degree in Computer Science and Engineering in North South University. involved in different extracurricular activities including robotics, mars rover exploration, Deep learning.
 
