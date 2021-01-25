@@ -10,13 +10,13 @@ An undergrad student currently pursuing B. Sc. degree in Computer Science and En
 
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **Junior Design Course and App Dev**
+- 🌱 I’m currently learning **PyTorch and NLP**
 
-- 👯 I’m looking to collaborate on **Machine Learning & App Dev**
+- 👯 I’m looking to collaborate on **Chatbots**
 
-- 🤝 I’m looking for help with **App Development**
+- 🤝 I’m looking for help with **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdullahAlMahfujShaan](https://github.com/AbdullahAlMahfujShaan)
 
