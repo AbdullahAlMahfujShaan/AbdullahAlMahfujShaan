@@ -10,23 +10,23 @@ An undergrad student currently pursuing B. Sc. degree in Computer Science and En
 
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Natural Language Processing & Deep Learning**
 
-- 🌱 I’m currently learning **PyTorch and NLP**
+- 🌱 I’m currently learning **WordPress & Spring Boot**
 
-- 👯 I’m looking to collaborate on **Chatbots**
+- 👯 I’m looking to collaborate on **Deep Learning**
 
-- 🤝 I’m looking for help with **Natural Language Processing**
+- 🤝 I’m looking for help with **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdullahAlMahfujShaan](https://github.com/AbdullahAlMahfujShaan)
 
 - 📝 I regulary write articles on [mahfujshaan.com](mahfujshaan.com)
 
-- 💬 Ask me about **Games, Movies, Songs**
+- 💬 Ask me about **Games, Movies, Songs, Cricket**
 
 - 📫 How to reach me **abdullah.mahfuj@northsouth.edu**
 
-- 📄 Know about my experiences [Not Decided](Not Decided)
+- 📄 Workplace Experience **Student Worker & Intern at Dept. of Information & Technology, North South University**
 
 - ⚡ Fun fact **I think I am very boring,also I play a lot of games.**
 
