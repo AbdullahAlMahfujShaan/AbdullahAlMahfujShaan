@@ -10,11 +10,11 @@ An undergrad student currently pursuing B. Sc. degree in Computer Science and En
 
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Natural Language Processing & Deep Learning**
+- 🔭 I’m currently working on **Full Stack Development & Deep Learning**
 
-- 🌱 I’m currently learning **WordPress & Spring Boot**
+- 🌱 I’m currently learning **Spring Boot - JPA - MySQL - Angular 11 - BootStrap**
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Deep Learning & Spring Boot**
 
 - 🤝 I’m looking for help with **Deep Learning**
 
@@ -22,11 +22,11 @@ An undergrad student currently pursuing B. Sc. degree in Computer Science and En
 
 - 📝 I regulary write articles on [mahfujshaan.com](mahfujshaan.com)
 
-- 💬 Ask me about **Games, Movies, Songs, Cricket**
+- 💬 Ask me about **Games, Movies, Songs, Cricket, Tech**
 
 - 📫 How to reach me **abdullah.mahfuj@northsouth.edu**
 
-- 📄 Workplace Experience **Student Worker & Intern at Dept. of Information & Technology, North South University**
+- 📄 Workplace Experience **Intern at eSystem Research & Development, BUET, Dhaka || Junior Content Writer at Backspace || Student Worker & Intern at Dept. of Information & Technology, North South University**
 
 - ⚡ Fun fact **I think I am very boring,also I play a lot of games.**
 
