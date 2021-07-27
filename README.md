@@ -3,7 +3,7 @@
 # AbdullahAlMahfujShaan
 
 ###  Hello Visitor.👋, Shaan here
-<h3 align="center"></h3>
+
 ![Currently Working](https://media.giphy.com/media/5XQf51Rua3j4Q/giphy.gif)
 
 An undergrad student currently pursuing B. Sc. degree in Computer Science and Engineering in North South University. involved in different extracurricular activities including robotics, mars rover exploration, Deep learning.
