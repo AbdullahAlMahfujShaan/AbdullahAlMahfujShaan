@@ -30,23 +30,7 @@ I'm a recent graduate from Macquarie University with a Master of IT in Cybersecu
 
 ### Languages and Tools:
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)
-![macOS](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
-![Kali Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![Office 365](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png)
-![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)
-![CLI](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![Wireshark](https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg)
-![Cisco Packet Tracer](https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg)
-![Splunk](https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg)
-![Tableau](https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg)
-![Google Chronicle](https://www.vectorlogo.zone/logos/google/google-icon.svg)
-![ELK Stack](https://upload.wikimedia.org/wikipedia/commons/e/e9/Elasticsearch_logo.svg)
-![Kibana](https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg)
-![Remote Support](https://www.vectorlogo.zone/logos/teamviewer/teamviewer-icon.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macOS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Kali Linux" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Office 365" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco Packet Tracer" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Chronicle" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Elasticsearch_logo.svg" alt="ELK Stack" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/teamviewer/teamviewer-icon.svg" alt="Remote Support" width="40" height="40"/>
 
 ---
 
