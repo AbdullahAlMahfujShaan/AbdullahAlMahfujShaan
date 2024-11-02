@@ -6,27 +6,26 @@
 
 ![Currently Working](https://media.giphy.com/media/5XQf51Rua3j4Q/giphy.gif)
 
-An undergrad student currently pursuing B. Sc. degree in Computer Science and Engineering in North South University. involved in different extracurricular activities including robotics, mars rover exploration, Deep learning.
-
+An former postgrad student currently working on Hack The Box modules.
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Full Stack Development & Deep Learning**
+- 🔭 I’m currently working on **OSCP**
 
-- 🌱 I’m currently learning **Spring Boot - JPA - MySQL - Angular 11 - BootStrap**
+- 🌱 I’m currently learning **Penetration Testing**
 
-- 👯 I’m looking to collaborate on **Deep Learning & Spring Boot**
+- 👯 I’m looking to collaborate on **Cyber Security**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **OSCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdullahAlMahfujShaan](https://github.com/AbdullahAlMahfujShaan)
 
-- 📝 I regulary write articles on [mahfujshaan.com](mahfujshaan.com)
+- 📝 I used to write articles on [mahfujshaan.com](mahfujshaan.com)
 
 - 💬 Ask me about **Games, Movies, Songs, Cricket, Tech**
 
-- 📫 How to reach me **abdullah.mahfuj@northsouth.edu**
+- 📫 How to reach me **abdullah.shaan@outlook.com**
 
-- 📄 Workplace Experience **Intern at eSystem Research & Development, BUET, Dhaka || Junior Content Writer at Backspace || Student Worker & Intern at Dept. of Information & Technology, North South University**
+- 📄 Workplace Experience **Garmin || JB Hi-Fi || NSW Dept of Education || ShopUp || North South University**
 
 - ⚡ Fun fact **I think I am very boring,also I play a lot of games.**
 
